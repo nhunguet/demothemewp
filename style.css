@@ -1,0 +1,106 @@
+/*
+ Theme Name:   web đầm bầu
+ Author:       Nhung Nguyen
+ Version:      1.0.0
+ Description: theme web by nhung nguyen;
+*/
+.body{
+	background-color: #CCCCCC; margin:0;
+	font-family: arial;
+}
+.main{
+	margin: auto;
+	width: 1000px;
+	padding: 0px;
+	border: #FF0000 dotted 1px;
+
+}
+.banner{
+	margin: auto;
+	padding: 0;
+}
+.menu{
+	background-image: url(img/menu_bg.png);	
+	background-repeat: repeat;
+	background-position: center;
+
+	
+}
+.trai{
+	background-image: url(img/header.png);
+	background-repeat: no-repeat;
+	background-color: #FFFFFF;
+	border: 1px solid #888888;
+	float: left;
+	width: 220px;
+}
+.trai ul{
+	list-style: none;
+
+}
+.trai h3{
+	text-transform: uppercase;
+	font-weight: bold;
+	vertical-align: top;
+	font-size: 16px;
+}
+.trai ul li ul{
+	list-style: circle;
+}
+.menu a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 13px;
+	width: 120px;
+	padding: 10px 0px 10px 0px;
+	
+}
+.menu a:hover{
+	font-weight: bold;
+	color: #ff0;
+	background-color: #F00;
+}
+.trai ul li a{
+	text-decoration: none;
+	font-size: 15px;
+	color: #006699;
+}
+.trai ul li a:hover{
+	color: #FF0000;
+	text-decoration: underline;
+}
+.phai{
+	float: right;
+	margin: 2px;
+	width: 760px; 
+}
+.slide{
+	width:700px;
+}
+.sanpham{
+	margin: 0px;
+}
+.box-san-pham{
+	width:195px;
+	background-color: #fff;
+	float: left;
+	margin: 10px 20px;
+	text-align: center;
+	margin: 5px 5px;
+
+}
+
+.ten-san-pham{
+	font-size: 14px;
+	margin: 0px;
+}
+.gia{
+	font-size: 15px;
+	font-weight: bold;
+}
+.clear{
+	clear: both;
+}
+.footer{
+	background-color: green;
+}
