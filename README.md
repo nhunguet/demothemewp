@@ -1,2 +1,3 @@
 # demothemewp
-demo co tạo theme bán hàng trên wordpress
+
+- This is simple demo for the making wordpress theme for the Wordpress CMS
